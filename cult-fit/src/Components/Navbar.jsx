@@ -5,10 +5,11 @@ import { Box, Image, Flex, Grid } from "@chakra-ui/react";
 import { GrLocation } from "react-icons/gr";
 import { AiOutlineUser, AiOutlineShoppingCart } from "react-icons/ai";
 import { Button } from "@chakra-ui/react";
+import Useric from "../image/Useric.png"
 const Navbar = () => {
   return (
     <Box>
-      <Grid bg="gray.600">
+      <Grid zIndex="1000" bg="#1b1f2a">
         <Link to="/">
           <Image  h={"20"} src={logo} />
         </Link>
@@ -34,14 +35,15 @@ const Navbar = () => {
         fontSize={"30"}>
 
         <Link to="/location">
-          <GrLocation />
+          <img style={{height:"50px"}} src="https://www.shutterstock.com/image-vector/gps-icon-map-pin-location-600w-1130808221.jpg"  />
         </Link>
+      
         <Button colorScheme="transparent" border="2px solid white">GET APP</Button>
         <Link to="/user">
-          <AiOutlineUser />
+          <img src={Useric}/>
         </Link>
         <Link to="/cart">
-          <AiOutlineShoppingCart />
+          <img style={{height:"50px"}} src="https://as2.ftcdn.net/v2/jpg/02/11/05/75/1000_F_211057598_Vzh78rIIokEndQVbh1DpxtF2VlfCtG3F.jpg" />
         </Link>
       </Flex>
     </Box>

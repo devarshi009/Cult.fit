@@ -1,14 +1,15 @@
 import React from 'react'
-import { Button } from '@chakra-ui/react'
+import { Button,Box,HStack,Container,Text,Heading } from '@chakra-ui/react'
 import {BsChevronDown} from "react-icons/bs"
 import "./Home.css"
+import Navbar from "../Components/Navbar"
 const Home = () => {
   return (
     <div className="homePage">
-    
+    {/* <Navbar/> */}
       {/* HOMEPAGE FIRST VEDIO POSTER STARTS */}
-      
-        <div className="homePage__video-poster-one">
+      <>
+      <div className="homePage__video-poster-one">
           <video
             autoPlay
             loop
@@ -23,22 +24,50 @@ const Home = () => {
         </div>
         <div className="homePage__text-poster-one">
           <div className="homePage__text-poster-one_img-one">
-            <img
+            <img className="Image"
               src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_500,ar_2.13,q_auto:eco,dpr_2,f_auto,fl_progressive/image/test/we-are-cult-logo/text-only-v2.png"
               alt="we-are-cult-img"
               loading="lazy"
             />
+          </div>
+          <div className="homePage-text">
+            <h4 >A fitness movemet that is worth<br/> breaking a sweat for </h4>
             </div>
-            <div className="homePage__text-poster-one_text">
-            <h4>A fitness movemet that is worth <br/>breaking a sweat for </h4>
+             
+              <Button color="red" pos="absolute" top="350" left="160">EXPLORE CULTPASS</Button>
+              
             
-              <Button pos="relative" bottom="-5" color="red">EXPLORE CULTPASS</Button>
-              <div pos="absolute" top="-30" left="0" zIndex="5">
-            <BsChevronDown />
-            </div>
-            </div>
+          
+        </div>
+        <div className='Icon' >
+          <BsChevronDown  fontSize="30"  />
+        </div>
+        {/* <Container> */}
+        <HStack gap="5" bg="#171a26" >
+        <Box h="220" border="1px solid gray" w="25%" ml="150" borderRadius={20} bg="#232631">
+          <Heading mt="5" fontSize={30} color="gray">cultpass<br/><Text color="#e1b460" fontSize={50} fontWeight="bold"> ELITE</Text></Heading>
+          <Text mt="5">Unlimited access to<br/> group classes,all gyms <br/>and at-home workouts</Text>
+        </Box>
+        <Box  h="220" border="1px solid gray" w="25%" ml="100" borderRadius={20} bg="#232631">
+          <Heading  mt="5" fontSize={30} color="gray">cultpass<Text fontSize={50} fontWeight="bold" color="#d3d3d7"> PRO</Text></Heading>
+          <Text>Unlimited access to all<br/> PRO gyms and at-home <br/> workouts</Text>
+        </Box>
+        <Box  h="220" border="1px solid gray" w="25%" ml="100" borderRadius={20} bg="#232631">
+          <Heading  mt="5" fontSize={30} color="gray">cultpass <Text fontSize={50} fontWeight="bold" color="#ad5b94">HOME</Text></Heading>
+          <Text mt="5">unlimited access to at- <br/>home workouts with <br/> calorie tracking</Text>
+        </Box>
+        </HStack>
+        {/* </Container> */}
+
+
+
+      
+      </>
+        
+           
+           
           </div>
-          </div>
+          
   )
 }
 
