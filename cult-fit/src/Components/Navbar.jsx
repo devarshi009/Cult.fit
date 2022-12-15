@@ -27,6 +27,7 @@ const Navbar = () => {
         <Link to="/care">CARE</Link>
         <Link to="/mind">MIND</Link>
         <Link to="/store">STORE</Link>
+        
       </Flex>
       <Flex pos="absolute"
         top="5"
