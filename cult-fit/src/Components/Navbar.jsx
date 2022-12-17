@@ -1,11 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import logo from "../image/logo.png";
+ import logo from "../image/logo.png";
 import { Box, Image, Flex, Grid } from "@chakra-ui/react";
-import { GrLocation } from "react-icons/gr";
-import { AiOutlineUser, AiOutlineShoppingCart } from "react-icons/ai";
+
+
 import { Button } from "@chakra-ui/react";
-import Useric from "../image/Useric.png"
 const Navbar = () => {
   return (
     <Box>
@@ -27,6 +26,7 @@ const Navbar = () => {
         <Link to="/care">CARE</Link>
         <Link to="/mind">MIND</Link>
         <Link to="/store">STORE</Link>
+        
       </Flex>
       <Flex pos="absolute"
         top="5"
@@ -35,15 +35,15 @@ const Navbar = () => {
         fontSize={"30"}>
 
         <Link to="/location">
-          <img style={{height:"50px"}} src="https://www.shutterstock.com/image-vector/gps-icon-map-pin-location-600w-1130808221.jpg"  />
+          <img style={{height:"35px", width:"100%"}} src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,q_auto:eco,dpr_2,f_auto,fl_progressive/image/test/header/location.png"  />
         </Link>
       
         <Button colorScheme="transparent" border="2px solid white">GET APP</Button>
         <Link to="/user">
-          <img src={Useric}/>
+          <Image h="35px" w="100%" src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_26,q_auto:eco,dpr_2,f_auto,fl_progressive/image/test/header/Profile.png"/>
         </Link>
         <Link to="/cart">
-          <img style={{height:"50px"}} src="https://as2.ftcdn.net/v2/jpg/02/11/05/75/1000_F_211057598_Vzh78rIIokEndQVbh1DpxtF2VlfCtG3F.jpg" />
+          <img style={{height:"25px", width:"100%" ,marginRight:"20px"}} src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,q_auto:eco,dpr_2,f_auto,fl_progressive//image/test/cart-dark-theme.svg" />
         </Link>
       </Flex>
     </Box>
