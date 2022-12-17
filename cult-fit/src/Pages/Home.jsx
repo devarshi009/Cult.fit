@@ -9,6 +9,7 @@ import {
   Image,
   Grid,
   GridItem,
+  Card,Stack,Divider,CardBody,CardFooter,ButtonGroup,Center
 } from "@chakra-ui/react";
 import { BsChevronDown } from "react-icons/bs";
 import "./Home.css";
@@ -158,7 +159,7 @@ const Home = () => {
         </Text>
       </Box>
       <HStack>
-        <Box>
+        <Box  >
           <Image src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_630,ar_1.29,q_auto:eco,dpr_2,f_auto,fl_progressive/image/test/image_zoom_widget/image_zoom_widget_img_3.png" />
         </Box>
         <Box>
@@ -208,7 +209,147 @@ const Home = () => {
       <Text pos="absolute"
           top="2400"
           left="250" opacity={10}  color="gray" fontSize={100}>Fun, trainerled group<br/> classes</Text>
-          
+          {/* _________________________________________________________ */}
+<HStack gap="20" m="20">
+          <Card maxW='sm'>
+  <CardBody >
+    <Image 
+      src='https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_404,ar_1.31,q_auto:eco,dpr_2,f_auto,fl_progressive//image/test/introducting-cult-pass/icp_cb.png'
+      alt='Green double couch with wooden legs'
+      borderRadius=''
+   
+    
+    />
+     <Text pos="absolute" top="190" left="120"color="white" fontSize="20"textAlign={"start"} lineHeight="35px">cultpass <br/><Text fontSize={40}fontWeight={"bolder"} color="#e1b460">ELITE</Text></Text>
+    <Stack mt='6' spacing='3'zIndex={10} color="white">
+      <Heading fontSize='30px'ml="10">Unlimited access to</Heading>
+      <li color="gray">
+        At-center group classes
+      </li >
+      <li color="gray">All ELITE & PRO gyms</li>
+      <li color="gray">At-home live workouts</li>
+      
+        
+      
+    </Stack>
+  </CardBody>
+  
+  <CardFooter mt="20" ml="10">
+    <ButtonGroup spacing='2'>
+      <Button variant='solid' colorScheme='#2f313c' color="white">
+        TRY FOR FREE
+      </Button>
+      <Button variant='solid' colorScheme='gray' color="red">
+        LEARN MORE
+      </Button>
+    </ButtonGroup>
+  </CardFooter>
+</Card>
+    {/* ==========================================       */}
+
+
+
+    <Card maxW='sm'>
+  <CardBody >
+    <Image 
+      src='https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_404,ar_1.31,q_auto:eco,dpr_2,f_auto,fl_progressive//image/test/introducting-cult-pass/icp_cb.png'
+      alt='Green double couch with wooden legs'
+      borderRadius=''
+   
+    
+    />
+     <Text pos="absolute" top="190" left="120"color="white" fontSize="20"textAlign={"start"} lineHeight="35px">cultpass <br/><Text fontSize={40}fontWeight={"bolder"} color="#e1b460">ELITE</Text></Text>
+    <Stack mt='6' spacing='3'zIndex={10} color="white">
+      <Heading fontSize='30px'ml="10">Unlimited access to</Heading>
+      <li color="gray">
+        At-center group classes
+      </li >
+      <li color="gray">All ELITE & PRO gyms</li>
+      <li color="gray">At-home live workouts</li>
+      
+        
+      
+    </Stack>
+  </CardBody>
+  
+  <CardFooter mt="20" ml="10">
+    <ButtonGroup spacing='2'>
+      <Button variant='solid' colorScheme='#2f313c' color="white">
+        TRY FOR FREE
+      </Button>
+      <Button variant='solid' colorScheme='gray' color="red">
+        LEARN MORE
+      </Button>
+    </ButtonGroup>
+  </CardFooter>
+</Card>
+
+<Card maxW='sm'>
+  <CardBody >
+    <Image 
+      src='https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_404,ar_1.31,q_auto:eco,dpr_2,f_auto,fl_progressive//image/test/introducting-cult-pass/icp_cb.png'
+      alt='Green double couch with wooden legs'
+      borderRadius=''
+   
+    
+    />
+     <Text pos="absolute" top="190" left="120"color="white" fontSize="20"textAlign={"start"} lineHeight="35px">cultpass <br/><Text fontSize={40}fontWeight={"bolder"} color="#e1b460">ELITE</Text></Text>
+    <Stack mt='6' spacing='3'zIndex={10} color="white">
+      <Heading fontSize='30px'ml="10">Unlimited access to</Heading>
+      <li color="gray">
+        At-center group classes
+      </li >
+      <li color="gray">All ELITE & PRO gyms</li>
+      <li color="gray">At-home live workouts</li>
+      
+        
+      
+    </Stack>
+  </CardBody>
+  
+  <CardFooter mt="20" ml="10">
+    <ButtonGroup spacing='2'>
+      <Button variant='solid' colorScheme='#2f313c' color="white">
+        TRY FOR FREE
+      </Button>
+      <Button variant='solid' colorScheme='gray' color="red">
+        LEARN MORE
+      </Button>
+    </ButtonGroup>
+  </CardFooter>
+</Card>
+
+
+
+</HStack>
+
+<Grid gridTemplateColumns="repeat(2,600px)" gridTemplateRows="600px 600px" m="200">
+  <GridItem h="" w="100%">
+    <Image src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_400,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/four-square-card/cult-transform-glass-green.png"/>
+<Text pos="absolute" top="3920px" left="250" fontSize="30px" fontWeight={"bolder"}>cult transform</Text>
+<Text  pos="absolute" top="3960px" left="250"fontSize={20}>Get coached to lose weightfor good</Text>
+  </GridItem>
+  <GridItem>
+  <Image src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_400,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/four-square-card/glass-blog-multi-color.png"/>
+  <Text  pos="absolute" top="3920px" left="830" fontSize="30px" fontWeight={"bolder"}>The.fit way</Text>
+<Text  pos="absolute" top="3960px" left="830"fontSize={20}>Making health easy,one day at a time</Text>
+  
+  </GridItem>
+  <GridItem>
+  <Image src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_400,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/four-square-card/glass-workout-gear.png"/>
+  <Text pos="absolute" top="4520px" left="250" fontSize="30px" fontWeight={"bolder"}>Workout Gear</Text>
+<Text pos="absolute" top="4560px" left="250"fontSize={20}>Everything you need for your workout</Text>
+  </GridItem>
+  <GridItem>
+  <Image src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_400,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/four-square-card/sugar-fit-glass-purple.png"/>
+  <Text  pos="absolute" top="4520px" left="830" fontSize="30px" fontWeight={"bolder"}>Sugar.fit</Text>
+<Text pos="absolute" top="4560px" left="830"fontSize={20}>Reverse Type 2 Diabetes and Prediabetes</Text>
+  
+  </GridItem>
+</Grid>
+<Box>
+<Footer/>
+</Box>
     </div>
   );
 };

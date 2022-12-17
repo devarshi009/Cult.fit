@@ -1,0 +1,23 @@
+.second-nav{
+    background-color: #393a3b ;
+    color: #808181;
+    height: 70px;
+    padding: 10px;
+    width:100%;
+    box-sizing: border-box;
+    justify-content: center;
+    padding-left: 100px;
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    top:70px;
+    left:0px
+}
+
+.nav-link {
+    text-decoration: none;
+    color: #b3b3b4;
+    padding: 0px 30px;
+    font-size: 18px;
+    font-weight: 600;
+}
