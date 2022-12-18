@@ -7,8 +7,8 @@ import { Box, Image, Flex, Grid } from "@chakra-ui/react";
 import { Button } from "@chakra-ui/react";
 const Navbar = () => {
   return (
-    <Box>
-      <Grid zIndex="1000" bg="#1b1f2a">
+    <Box style={{position:"fixed",zIndex:"1000",backgroundColor:"gray.600" ,top:"0"}}>
+      <Grid zIndex="100" bg="#1b1f2a">
         <Link to="/">
           <Image  h={"20"} src={logo} />
         </Link>
