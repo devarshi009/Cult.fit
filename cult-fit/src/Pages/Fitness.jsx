@@ -304,7 +304,7 @@ const Fitness = () => {
           </div>
         </div>
       </div>
-    </div>
+    
   );
 };
 
