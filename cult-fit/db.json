@@ -1,0 +1,654 @@
+
+{
+  
+  "TShirt": [
+ 
+  
+   
+ {
+  "id":1,
+    "imageDescription": "https://cultsport.com/solid-active-tshirt-with-logo/product/4241?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mcFkm6K2JzvBewYumhjHk3Se",
+    "noIdea": "cultsportone",
+    "description": "Solid Active Tshirt with Logo",
+    "price":  449,
+    "originalPrice":  899,
+    "offer": "50% Off"
+  },
+  {
+    "id":2,
+    "imageDescription": "https://cultsport.com/textured-performance-tshirt-with-logo/product/4228?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/gyEKit98fH6VGSZ2jv1fFkSm",
+    "noIdea": "cultisportone",
+    "description": "Textured Performance Tshirt with Logo",
+    "price":  499,
+    "originalPrice":  999,
+    "offer": "50% Off"
+  },
+   {
+    "id":3,
+    "imageDescription": "https://cultsport.com/flashrun-linear-women-s-running-tshirt/product/1661?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/4TiZEhXZCRYsia6PxUGp7kXf",
+    "noIdea": "CULTSPORT",
+    "description": "FlashRun Linear Women's Running Tshirt",
+    "price":  649,
+    "originalPrice":  129,
+    "offer": "50% Off"
+  },
+   {
+    "id":4, 
+    "imageDescription": "https://cultsport.com/dance-graphic-print-workout-tshirt/product/1985?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/1X5Krv1DzwtiKyR3FJrKizum",
+    "noIdea": "CULTSPORT",
+    "description": "Dance Graphic Print Workout Tshirt",
+    "price":  879,
+    "originalPrice":  159,
+    "offer": "45% Off"
+  },
+    {
+      "id":5,
+      "imageDescription": "https://cultsport.com/graphic-print-workout-tshirt-601223/product/1989?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ZjefBYYJtKtGqpd7PrPUJvZo",
+    "noIdea": "CULTSPORT",
+    "description": "Graphic Print Workout Tshirt",
+    "price":  959,
+    "originalPrice":  159,
+    "offer": "40% Off"
+  },
+  {"id":6,
+    "imageDescription": "https://cultsport.com/gradient-stripe-workout-tshirt-601187/product/2039?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/sJernEQxHpgQGf6hL8bRwGtY",
+    "noIdea": "CULTSPORT",
+    "description": "Gradient Stripe Workout Tshirt",
+    "price": 839,
+    "originalPrice":  139,
+    "offer": "40% Off"
+  },
+    {"id":7,
+      "imageDescription": "https://cultsport.com/play-graphic-workout-tshirt/product/2110?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/M4ZZdWXHva8VhdScwrK6ndvQ",
+    "noIdea": "CULTSPORT",
+    "description": "Play Graphic Workout Tshirt",
+    "price":  824,
+    "originalPrice":  149,
+    "offer": "45% Off"
+  },
+    {"id":8,
+      "imageDescription": "https://cultsport.com/vitals-running-t-shirt/product/3087?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/DQ72yLsWGJ1hhkg9WnjHifPi",
+    "noIdea": "CULTSPORT",
+    "description": "Vitals Running T-shirt",
+    "price":  839,
+    "originalPrice":  139,
+    "offer": "40% Off"
+  }],
+  "Cycles":[
+    { 
+    
+    "id":9,
+    "imageDescription": "https://cultsport.com/ut1000-black-steel-mtb-27-t-shimano-geared-mountain-cycle-21-gear/product/3646?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/q1S4DwudvD6D86TUcuSikyUZ",
+    "noIdea": "Urban Terrain",
+    "description": "UT1000, Black, Steel MTB 27 T Shimano Geared Mountain Cycle",
+    "price":  1299,
+    "originalPrice":  4999,
+    "offer": "74% Off"
+  },
+  {"id":10,
+    "imageDescription": "https://cultsport.com/urban-terrain-ut2000-steel-mtb-27-t-shimano-geared-mountain-cycle-21-gear-red/product/3454?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mRmDRFA389Zo8n23tVRCvmty",
+    "description": "UT2000, Red, Steel MTB 27 T Shimano Geared Mountain Cycle (21 Gear)",
+    "price":  1299,
+    "originalPrice":  4990,
+    "offer": "73% Off"
+},
+{"id":11,
+    "imageDescription": "https://cultsport.com/urban-terrain-ut1001-steel-mtb-27-t-shimano-geared-mountain-cycle-21-gear-blue/product/3455?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/vtg2iiscHQwMC3K1Dd6C8ztf",
+    "noIdea": "Urban Terrain",
+    "description": "UT1001, Blue, Steel MTB 27 T Shimano Geared Mountain Cycle (21 Gear)",
+    "price":  1299,
+    "originalPrice":  4990,
+    "offer": "73% Off"
+},
+{"id":12,
+    "imageDescription": "https://cultsport.com/ut3013s27-black-steel-mtb-27-t-shimano-geared-mountain-cycle-21-gear/product/3649?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/9Lfs1QsnEAApo4epJb1A27Y4",
+    "noIdea": "Urban Terrain",
+    "description": "UT3013S27, Black, Steel MTB 27 T Shimano Geared Mountain Cycle",
+    "price":  1199,
+    "originalPrice":  4590,
+    "offer": "73% Off"
+},
+{"id":13,
+    "imageDescription": "https://cultsport.com/ut3000s27-blue-steel-mtb-27-5t-shimano-geared-mountain-cycle-21-gear/product/3808?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/i6GqzzDatzrHSkSz9DXjs3un",
+    "noIdea": "Urban Terrain",
+    "description": "UT3000S27, Blue Steel MTB 27.5T Shimano Geared Mountain Cycle(21 Gear)",
+    "price":  1199,
+    "originalPrice":  4590,
+    "offer": "73% Off"
+},
+{"id":14,
+    "imageDescription": "https://cultsport.com/ut3012s27-green-steel-mtb-27-t-shimano-geared-mountain-cycle-21-gear/product/3648?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/yUFhM6bJRBeQTw27pDfUCLnF",
+    "noIdea": "Urban Terrain",
+    "description": "UT3012S27, Green, Steel MTB 27 T Shimano Geared Mountain Cycle",
+    "price":  1199,
+    "originalPrice":  4590,
+    "offer": "73% Off"
+},
+{"id":15,
+    "imageDescription": "https://cultsport.com/ut3000a27-black-alloy-mtb-27-5t-shimano-geared-mountain-cycle-21-gear/product/3805?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/gzmRX9u5sKFN4UoC6kLg5rZQ",
+    "noIdea": "Urban Terrain",
+    "description": "UT3000A27, Black Alloy MTB 27.5T Shimano Geared Mountain Cycle(21 Gear)",
+    "price":  1299,
+    "originalPrice":  4790,
+    "offer": "72% Off"
+},
+{"id":16,
+    "imageDescription": "https://cultsport.com/ut3003a27-black-alloy-mtb-27-5t-shimano-geared-mountain-cycle-21-gear/product/3807?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/9v9sBNMay6wxih67ie1s6Qc4",
+    "noIdea": "Urban Terrain",
+    "description": "UT3003A27, Black Alloy MTB 27.5T Shimano Geared Mountain Cycle(21 Gear)",
+    "price":  1329,
+    "originalPrice":  4790,
+    "offer": "72% Off"
+  }],
+  "spikebikes":[
+  {
+    
+    "id":17,
+    "imageDescription": "https://cultsport.com/smartbike-c1-bluetooth-enabled-spin-bike-with--level-magnetic-resistance/product/4259?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/vX1Vgko9H9n3Nn3rdyQnNkrb",
+    "noIdea": "CULTSPORT",
+    "description": "Smartbike c1: Bluetooth enabled spin bike with -level magnetic resistance",
+    "price":  2149,
+    "originalPrice":  4099,
+    "offer": "47% Off"
+  },
+  {"id":18,
+    "imageDescription": "https://cultsport.com/smartbike-c2-bluetooth-enabled-spin-bike-with-stepless-magnetic-resistance/product/4260?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/nTvMdcZi5B2MzrXZJicv7acr",
+    "description": "Smartbike c2: Bluetooth enabled spin bike with stepless magnetic resistance",
+    "price":  2349,
+    "originalPrice":  4489,
+    "offer": "47% Off"
+  },
+  {"id":19,
+    "imageDescription": "https://cultsport.com/onefitplus-ofp-1000--level-magnetic-resistance-spin-bike/product/3449?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/KeDrqEPZbJgL4uhactfj1qtz",
+    "noIdea": "OneFitplus",
+    "description": "OFP-1000,  Level Magnetic Resistance Spin Bike",
+    "price":  1619,
+    "originalPrice":  3999,
+    "offer": "59% Off"
+  },
+  {"id":20,
+    "imageDescription": "https://cultsport.com/fitkit-fk2000-13-22lbs-flywheel-with-free-installation-trainer-led-sessions-spinner-exercise-bike-orange/product/4910?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/wbctcajpukdS9CSaPJyRNzhD",
+    "noIdea": "Fitkit",
+    "description": "FITKIT FK2000 (13.22lbs Flywheel) With Free Installation, Trainer Led Sessions Spinner Exercise Bike  (Orange)",
+    "price":  1299,
+    "originalPrice":  3599,
+    "offer": "63% Off"
+  },
+  {"id":21,
+    "imageDescription": "https://cultsport.com/rpm610-14lbs-flywheel-with-free-installation-exercise-bike/product/3802?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/SAyvoVkvP6CzxR3d96Du3WwM",
+    "noIdea": "RPM Fitness",
+    "description": "RPM610 (14lbs Flywheel) with Free Installation Exercise Bike",
+    "price":  1269,
+    "originalPrice":  2599,
+    "offer": "51% Off"
+  },
+  {"id":22,
+    "imageDescription": "https://cultsport.com/ofp-1002-static-handle-w-o-backrest-upright-stationary-exercise-bike/product/4036?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/saeDddffUAaaQiPJzV4Gu8LC",
+    "noIdea": "OneFitplus",
+    "description": "OFP-1002 Static Handle w/o Backrest Upright Stationary Exercise Bike",
+    "price":  449,
+    "originalPrice":  1100,
+    "offer": "59% Off"
+  },
+  {"id":23,
+    "imageDescription": "https://cultsport.com/rpm600-30lbs-flywheel-spinner-exercise-bike/product/4044?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/eVvoi3yDRtTtyAT7ZmGjyK8Z",
+    "noIdea": "RPM Fitness",
+    "description": "RPM600 (30lbs Flywheel) Spinner Exercise Bike",
+    "price":  1619,
+    "originalPrice":  4059,
+    "offer": "60% Off"
+  },
+  {"id":24,
+    "imageDescription": "https://cultsport.com/fk3000-13-2lbs-flywheel-with-free-installation-spinner-exercise-bike/product/4163?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/e9Wb3Gqi3hVBp4rxYHZvYm8c",
+    "noIdea": "Fitkit",
+    "description": "FK3000 (13.2lbs Flywheel) with Free Installation Spinner Exercise Bike",
+    "price":  1179,
+    "originalPrice":  2499,
+    "offer": "52% Off"
+  }],
+ " Treadmills":[
+  {"id":25,
+    "imageDescription": "https://cultsport.com/smartrun-c2-bluetooth-enabled-treadmill-with-15-level-auto-incline/product/4263?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/yHz1nfjmiafpYRHeTMiBfB9A",
+    "noIdea": "CULTSPORT",
+    "description": "Smartrun c2: Bluetooth enabled treadmill with 15-level auto incline",
+    "price":  3849,
+    "originalPrice":  8159,
+    "offer": "52% Off"
+  },
+  {"id":26,
+    "imageDescription": "https://cultsport.com/smartrun-c1-bluetooth-enabled-treadmill-with-level-incline/product/4262?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GpeKVjiXj2nnH9eafrutHxfm",
+    "description": "Smartrun c1: Bluetooth enabled treadmill with-level incline",
+    "price":  3399,
+    "originalPrice":  6899,
+    "offer": "50% Off"
+  },
+  {"id":27,
+    "imageDescription": "https://cultsport.com/fitkit-10k--ccc-certified-dc-motorized-treadmill/product/3446?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/SDgpHbPyumHJkqeM5ehAh6Gh",
+    "noIdea": "Fitkit",
+    "description": "FITKIT 10K .5HP DC Motorized Treadmill",
+    "price":  2299,
+    "originalPrice":  6999,
+    "offer": "67% Off"
+  },
+  {"id":28,
+    "imageDescription": "https://cultsport.com/ft200m--5hp-dc-motorized-treadmill/product/3792?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/B4K4rku74fqHCaWpgEV14uH1",
+    "noIdea": "Fitkit",
+    "description": "FT200M .5HP DC Motorized Treadmill",
+    "price":  3299,
+    "originalPrice":  8000,
+    "offer": "58% Off"
+  },
+  {"id":29,
+    "imageDescription": "https://cultsport.com/ft200s--5hp-dc-motorized-treadmill/product/3791?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/FsezbKx6Tyj3DAXyHa7bL6hu",
+    "noIdea": "Fitkit",
+    "description": "FT200S .5HP DC Motorized Treadmill",
+    "price":  2949,
+    "originalPrice":  7500,
+    "offer": "60% Off"
+  },
+  {"id":30,
+    "imageDescription": "https://cultsport.com/smartrun-c7-bluetooth-enabled-treadmill-with-18-level-auto-incline/product/4282?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/RBfzn45dqXaxtyn26rtKv6zX",
+    "noIdea": "CULTSPORT",
+    "description": "Smartrun c7: Bluetooth enabled treadmill with 18-level auto incline",
+    "price":  12899,
+    "originalPrice":  29999,
+    "offer": "57% Off"
+  },
+  {"id":31,
+    "imageDescription": "https://cultsport.com/10k--ce-certified-dc-motorized-treadmill/product/3628?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/BVPtwQc3nRBmiVt5UVtg6VmY",
+    "noIdea": "RPM Fitness",
+    "description": "RPM 10K  HP, CE Certified DC Motorized Treadmill",
+    "price":  3249,
+    "originalPrice":  7999,
+    "offer": "59% Off"
+  },
+  {"id":32,
+    "imageDescription": "https://cultsport.com/rpm737s-hp-dc-motorized-treadmill/product/3634?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/seAiaurLCyxuFEZYCGF9M93L",
+    "noIdea": "RPM Fitness",
+    "description": "RPM737S HP DC Motorized Treadmill",
+    "price":  2499,
+    "originalPrice":  6499,
+    "offer": "61% Off"
+  }],
+ "ACCESSORIES":[ 
+  {
+    "id":33,
+       "imageDescription": "https://cultsport.com/signature-boxing-hand-wraps/product/1431?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/rqFrmhQat5ajC62f7rKCPU6m",
+    "noIdea": "CULTSPORT",
+    "description": "Signature Boxing Hand Wraps",
+    "price":  389,
+    "originalPrice":  599,
+    "offer": "35% Off"
+  },
+  {"id":34,
+    "imageDescription": "https://cultsport.com/yoga-strap/product/1434?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/TtKkztyhA84pRRQb6SstMJSP",
+    "description": "Yoga Strap",
+    "price":  389,
+    "originalPrice":  599,
+    "offer": "35% Off"
+  },
+  {"id":35,
+    "imageDescription": "https://cultsport.com/raspberry-pink-yoga-mat/product/1637?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/1HyT5rRS8CWYTY4NMzpkTnit",
+    "noIdea": "CULTSPORT",
+    "description": "Raspberry Pink Yoga Mat",
+    "price":  142,
+    "originalPrice":  219,
+    "offer": "35% Off"
+  },
+  {"id":36,
+    "imageDescription": "https://cultsport.com/eva-foam-yoga-block-600538/product/1436?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/TCnGF1WquCn1iV4VyMbRK6q7",
+    "noIdea": "CULTSPORT",
+    "description": "EVA Foam Yoga Block",
+    "price":  584,
+    "originalPrice":  899,
+    "offer": "35% Off"
+  },
+  {
+    "id":37,
+    "imageDescription": "https://cultsport.com/eco-friendly-cork-yoga-block/product/1633?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/dYff3qUPgwn5y93aqH8XPoem",
+    "noIdea": "CULTSPORT",
+    "description": "Eco-Friendly Cork Yoga Block",
+    "price":  779,
+    "originalPrice":  119,
+    "offer": "35% Off"
+  },
+  {
+    "id":38,
+    "imageDescription": "https://cultsport.com/dark-grey-yoga-mat/product/1636?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/FD7LBsHMX74CdagPgh5Y6FBW",
+    "noIdea": "CULTSPORT",
+    "description": "Dark Grey Yoga Mat",
+    "price":  142,
+    "originalPrice":  219,
+    "offer": "35% Off"
+  },
+  {
+    "id":39,
+    "imageDescription": "https://cultsport.com/eco-friendly-cork-yoga-and-workout-mat-with-stance-marking/product/1647?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/DThmyLcUufobSLiE2QPFoddh",
+    "noIdea": "CULTSPORT",
+    "description": " in 1 Workout/Yoga Rubberized Cork (Eco Friendly) Mat (3mm)",
+    "price":  194,
+    "originalPrice":  299,
+    "offer": "35% Off"
+  },
+  {
+    "id":40,
+    "imageDescription": "https://cultsport.com/rubber-workout-mat/product/1662?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/VLSrJS6rNY2wmNgdjcT7Rz9J",
+    "noIdea": "CULTSPORT",
+    "description": "Rubber Workout Mat",
+    "price":  503,
+    "originalPrice":  629,
+    "offer": "20% Off"
+  }],
+  "TOPWEAR":[
+    {
+    
+    "id":41,
+    "imageDescription": "https://cultsport.com/formfit-high-impact-ivy-sports-bra-500324/product/1382?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mU1dZAHqT6pjRn55ZWYvq6Mf",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit High Impact Ivy Sports Bra",
+    "price":  137,
+    "originalPrice":  249,
+    "offer": "45% Off"
+    },
+    {
+    "id":42,
+    "imageDescription": "https://cultsport.com/formfit-high-impact-ivy-sports-bra-500327/product/1384?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/anBREptvxVED3KMUSXcPpTen",
+    "description": "FormFit High Impact Ivy Sports Bra",
+    "price":  137,
+    "originalPrice":  249,
+    "offer": "45% Off"
+    },
+    {
+    "id":43,
+    "imageDescription": "https://cultsport.com/formfit-training-sports-bra-601209/product/3093?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/jsnGp3tbniZqKagkt9g9tgRz",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit Training Sports Bra",
+    "price":  524,
+    "originalPrice":  209,
+    "offer": "75% Off"
+    },
+    {
+    "id":44,
+    "imageDescription": "https://cultsport.com/formfit-high-impact-cleo-sports-bra/product/1376?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/mDr56tYNkgQK63wPpKCgjh8D",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit High Impact Cleo Sports Bra",
+    "price":  104,
+    "originalPrice":  199,
+    "offer": "47% Off"
+    },
+    {
+    "id":45,
+    "imageDescription": "https://cultsport.com/formfit-medium-impact-iris-sports-bra/product/1378?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/Rkvm2RRTupBGdosroYM1U5j5",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit Medium Impact Iris Sports Bra",
+    "price":  104,
+    "originalPrice":  199,
+    "offer": "47% Off"
+    },
+    {
+    "id":46,
+    "imageDescription": "https://cultsport.com/formfit-medium-impact-zoe-sports-bra/product/1380?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ACnD9W49rmX4tmtoYyvQaVRF",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit Medium Impact Zoe Sports Bra",
+    "price":  104,
+    "originalPrice":  199,
+    "offer": "47% Off"
+    },
+    {
+    "id":47,
+    "imageDescription": "https://cultsport.com/formfit-high-impact-cleo-sports-bra-500323/product/1381?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/RnC9VfNKE3wwnh173rSZsF4G",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit High Impact Cleo Sports Bra",
+    "price":  104,
+    "originalPrice":  199,
+    "offer": "47% Off"
+    },
+    {
+    "id":48,
+    "imageDescription": "https://cultsport.com/formfit-medium-impact-lia-sports-bra-500333/product/1388?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/i7ZHWFiMdNRrQFyW7mWgsVsD",
+    "noIdea": "CULTSPORT",
+    "description": "FormFit Medium Impact Lia Sports Bra",
+    "price":  159,
+    "originalPrice":  289,
+    "offer": "45% Off"
+  }],
+  "BOTTOMWEAR":[
+  {
+    
+    "id":49,
+    "imageDescription": "https://cultsport.com/halftone-print-active-shorts/product/3768?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/iK5BVWbaQ6KoEt1hwBUMuCdq",
+    "noIdea": "CULTSPORT",
+    "description": "Halftone Print Active Shorts",
+    "price":  879,
+    "originalPrice":  159,
+    "offer": "45% Off"
+  },
+  {
+    "id":50,
+    "imageDescription": "https://cultsport.com/absolute-fit-solid-tights-601532/product/4092?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/t5VpnpDQrsKVPHRUYgAiTgFL",
+    "description": "AbsoluteFit Solid Workout Tights",
+    "price":  137,
+    "originalPrice":  249,
+    "offer": "45% Off"
+  },
+  {
+    "id":51,
+    "imageDescription": "https://cultsport.com/halftone-logo-active-shorts/product/3770?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/htjEJCau5FfPzq6orYWXz1vb",
+    "noIdea": "CULTSPORT",
+    "description": "Halftone Logo Active Shorts",
+    "price":  879,
+    "originalPrice":  159,
+    "offer": "45% Off"
+  },
+  {
+    "id":52,
+    "imageDescription": "https://cultsport.com/absolute-fit-solid-tights-601533/product/4093?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/xnVH5ZjMvv51Dxc7i8z7w3Gt",
+    "noIdea": "CULTSPORT",
+    "description": "AbsoluteFit Solid Workout Tights",
+    "price":  137,
+    "originalPrice":  249,
+    "offer": "45% Off"
+  },
+  {
+    "id":53,
+    "imageDescription": "https://cultsport.com/vital-blaze-black-gym-shorts-503948/product/717?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/q1RRjfnRcNUYgSzLD8wM8oEv",
+    "noIdea": "CULTSPORT",
+    "description": "Solid Workout Shorts",
+    "price":  769,
+    "originalPrice":  139,
+    "offer": "45% Off"
+  },
+  {
+    "id":54,
+    "imageDescription": "https://cultsport.com/logo-graphic-active-shorts-601756/product/3761?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/89PqSo1iBXiDQBw8HAGibchX",
+    "noIdea": "CULTSPORT",
+    "description": "Logo Graphic Active Shorts",
+    "price":  999,
+    "originalPrice":  199,
+    "offer": "50% Off"
+  },
+  {
+    "id":55,
+    "imageDescription": "https://cultsport.com/digital-camo-active-shorts/product/3762?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/S5ma3c419cWGgJ9mZ9uVhYgd",
+    "noIdea": "CULTSPORT",
+    "description": "Digital Camo Active Shorts",
+    "price":  104,
+    "originalPrice":  199,
+    "offer": "47% Off"
+  },
+  {
+    "id":56,
+    "imageDescription": "https://cultsport.com/do-it-all-ombre-prism-tights/product/4102?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/QsooiXHKUycwsG88BZvho57Z",
+    "noIdea": "CULTSPORT",
+    "description": "Do It All Ombre Prism Tights",
+    "price":  221,
+    "originalPrice":  369,
+    "offer": "40% Off"
+  }],
+ "HEALTH & NUTRITION": [
+  {
+    
+    "id":57,
+    "imageDescription": "https://cultsport.com/cultsport-elite-100-whey-protein-1kg/product/4256?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ZCAj47EBjCcrTqoJwp38Mvr5",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport Elite 100% Whey Protein, 1 Kg",
+    "price":  259,
+    "originalPrice":  349,
+    "offer": "25% Off"
+  },
+  {
+    "id":58,
+    "imageDescription": "https://cultsport.com/cultsport-elite-whey-isolate-protein-908-gm/product/4325?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/VDxmyWjWBtLAsoecqfLURGkg",
+    "description": "Cultsport Elite Whey Isolate Protein, 908g",
+    "price":  299,
+    "originalPrice":  439,
+    "offer": "31% Off"
+  },
+  {
+    "id":59,
+    "imageDescription": "https://cultsport.com/cultsport-eaa-300g/product/4511?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/GSTyMSQeHn7pp7Cyw3Dv1yrk",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport EAA, 300g",
+    "price":  149,
+    "originalPrice":  179,
+    "offer": "16% Off"
+  },
+  {
+
+    "id":60,
+    "imageDescription": "https://cultsport.com/cultsport-elite-100-whey-protein-500g/product/4323?",
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/ENQM9ukkwLWr86FcTNpWReTd",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport Elite 100% Whey Protein, 500g",
+    "price":  139,
+    "originalPrice":  174,
+    "offer": "20% Off"
+  },
+  {
+    "id":61,
+    "imageDescription": "https://cultsport.com/cultsport-raw-whey-80-protein-454g/product/4324?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/rjtceM1ZEfPrgXYUnj5BxmbG",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport Raw Whey 80% Protein, 454g",
+    "price":  107,
+    "originalPrice":  134,
+    "offer": "20% Off"
+  },
+  {
+    "id":62,
+    "imageDescription": "https://cultsport.com/cultsport-elite-whey-isolate-protein-454g/product/4326?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/7Q4r1kdQwixLuXnyyPwrdKtQ",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport Elite Whey Isolate Protein, 454g",
+    "price":  179,
+    "originalPrice":  224,
+    "offer": "20% Off"
+  },
+  {
+    "id":63,
+    "imageDescription": "https://cultsport.com/cultsport-liquid-l-carnitine-450ml/product/4258?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/DHjJcDyA9cmpAJqFt954L5kB",
+    "noIdea": "CULTSPORT",
+    "description": "Cultsport Liquid L-Carnitine, 450ml",
+    "price":  999,
+    "originalPrice":  139,
+    "offer": "28% Off"
+  },
+  {
+    "id":64,
+    "imageDescription": "https://cultsport.com/azani-calcium-vitamin-d-bone-support-gummies-for-adults-kids-healthy-diet-supplement-for-strong-bones-mango-strawberry-flavour-30-gummies/product/3957?",
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_300,h_400,ar_0.75,c_fill/dpr_2/cultgear-content/96T9f13kUMuksgadqCbZC1Ys",
+    "noIdea": "Azani",
+    "description": "Azani Calcium & Vitamin D Bone Support Gummies for Adults & Kids |Healthy diet supplement for strong bones (Mango & Strawberry Flavour), 30 Gummies",
+    "price":  299,
+    "originalPrice":  549,
+    "offer": "45% Off"
+  }],
+ "SHOP BY WORKOUT":[ 
+  {
+    
+    "id":65,
+    
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_301,ar_530:700/dpr_2/image/vm/06a67be8-5b49-49b9-83b1-af4e6fa6461b.png"
+  },
+  {
+    "id":66,
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_301,ar_530:700/dpr_2/image/vm/a026ae3f-fc71-4403-aa75-b03226b7c36f.png"
+  },
+  {
+    "id":67,
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_301,ar_530:700/dpr_2/image/vm/c0ae83e6-a054-448f-b658-f214863779ce.png"
+  },
+  {
+    "id":68,
+    "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_301,ar_530:700/dpr_2/image/vm/6dbd08ab-43d5-4f35-abab-d283384f7904.png"
+  }],
+  "SPOTLIGHT" :[
+    {
+    "id":69,
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_674,ar_1080:600/dpr_2/image/vm/236187b6-218f-4d36-ad13-a47515b2b385.png"
+    },
+    {
+"id":70,
+  "image": "https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_674,ar_1080:600/dpr_2/image/vm/89567047-8d49-493a-b032-4e48df8e112d.png"
+  }]}
+  
