@@ -2,8 +2,10 @@ import React, { useEffect, useState } from "react";
 
 import Footer from "../Components/Footer";
 import "./Fitness.css";
-import SimpleSlider from "./FitnessSlider";
+
+
 import Slidebar from "./Slidebar";
+
 import { Navbar2 } from "../Components/Navbar2";
 
 const Fitness = () => {
@@ -66,9 +68,7 @@ const Fitness = () => {
                 <p className="line3">Starting at₹117 / month</p>
               </div>
             </div>
-            <div style={{ width: "85%", margin: "auto", height: "00px" }}>
-              {/* <SimpleSlider />    */}
-              <SimpleSlider />
+
             </div>
 
             <div className="secondhalf">
@@ -82,7 +82,9 @@ const Fitness = () => {
               <h2 className="At">AT-CENTER</h2>
               <h1 className="Trainer">Trainer-led group classes</h1>
               <div className="sd2">
+
                 <Slidebar />
+
               </div>
               <div>
                 <h2 className="At">AT-HOME</h2>

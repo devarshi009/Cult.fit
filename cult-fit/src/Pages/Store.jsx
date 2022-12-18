@@ -1,6 +1,7 @@
-import React from 'react'
+import {useState,useEffect} from 'react'
 
 const Store = () => {
+  const [data,setData]=useState([])
   return (
     <div>Store</div>
   )
