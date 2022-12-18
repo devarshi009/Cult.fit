@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
-// import Navbar from "../Navbar/Navbar";
-// import "./Fitness.scss";
 
+import Footer from "../Components/Footer";
 import "./Fitness.css";
-// import SimpleSlider from "./FitnessSlider";
-import FitnessSlider from "./FitnessSlider";
+
+
+import Slidebar from "./Slidebar";
+
 import { Navbar2 } from "../Components/Navbar2";
-import { Footer } from "../Components/Footer";
 
 const Fitness = () => {
   const [loading__Status, setLoading__Status] = useState(true);
@@ -68,10 +68,9 @@ const Fitness = () => {
                 <p className="line3">Starting at₹117 / month</p>
               </div>
             </div>
-            <div style={{ width: "85%", margin: "auto" }}>
-              {/* <SimpleSlider /> */}
+
             </div>
-            {/* <SimpleSlider /> */}
+
             <div className="secondhalf">
               <p className="para">What you get with cultpass</p>
               <img
@@ -83,12 +82,14 @@ const Fitness = () => {
               <h2 className="At">AT-CENTER</h2>
               <h1 className="Trainer">Trainer-led group classes</h1>
               <div className="sd2">
-                <FitnessSlider />
+
+                <Slidebar />
+
               </div>
               <div>
                 <h2 className="At">AT-HOME</h2>
                 <p className="para">
-                  Live group workouts with calorie tracking
+                  Unlimited home workouts with calorie tracking
                 </p>
               </div>
               <div className="at-home">
@@ -135,9 +136,15 @@ const Fitness = () => {
                   <thead>
                     <tr>
                       <th></th>
-                      <th>ELITE</th>
-                      <th>PRO</th>
-                      <th>LIVE</th>
+                      <th style={{ color: "#deb25d", fontSize: "30px" }}>
+                        ELITE
+                      </th>
+                      <th style={{ color: "#d8d7db", fontSize: "30px" }}>
+                        PRO
+                      </th>
+                      <th style={{ color: "#a55993", fontSize: "30px" }}>
+                        HOME
+                      </th>
                     </tr>
                   </thead>
                   <tbody>
@@ -200,21 +207,21 @@ const Fitness = () => {
                     <tr>
                       <td></td>
                       <td>
-                        Starting at ₹1269/
+                        Starting at ₹1611/
                         <br />
                         month
                         <br />
                         <button className="tablebutton">Buy now</button>
                       </td>
                       <td>
-                        Starting at ₹769/
+                        Starting at ₹987/
                         <br />
                         month
                         <br />
                         <button className="tablebutton">Buy now</button>
                       </td>
                       <td>
-                        Starting at ₹115/
+                        Starting at ₹117/
                         <br />
                         month
                         <br />
@@ -240,7 +247,7 @@ const Fitness = () => {
                     <p className="cp">Unlimted access to</p>
                     <p className="cp">✓ All ELITE & PRO GYMS</p>
                     <p className="cp">✓ At-home live workouts</p>
-                    <p className="cp">Starting at ₹1269/month</p>
+                    <p className="cp">Starting at ₹1611/month</p>
                     <button className="btn-try">TRY FOR FREE</button>
                     <button className="btn-buy">BUY NOW</button>
                   </div>
@@ -290,11 +297,13 @@ const Fitness = () => {
                   alt="img"
                 />
               </div>
+              <div className="footer">
+                <Footer />
+              </div>
             </div>
           </div>
         </div>
       </div>
-      {/* <Footer /> */}
     </div>
   );
 };
