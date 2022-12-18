@@ -164,4 +164,4 @@ import "./footer.css";
     </footer>
   );
 };
-export default Footer
+export default Footer;
