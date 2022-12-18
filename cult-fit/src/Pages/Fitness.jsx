@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 
 import "./Fitness.css";
 // import SimpleSlider from "./FitnessSlider";
-// import SimpleSlider2 from "./FitnessSlider2";
+import FitnessSlider from "./FitnessSlider";
 import { Navbar2 } from "../Components/Navbar2";
 import { Footer } from "../Components/Footer";
 
@@ -24,9 +24,8 @@ const Fitness = () => {
   return loading__Status ? (
     <div className="loading__Screen">
       {" "}
-      <img style={{position:" absolute",
-    top:"400px",
-    left:"600px",}}
+      <img
+        style={{ position: " absolute", top: "400px", left: "600px" }}
         src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,q_auto:eco,dpr_1.0700000524520874,f_auto,fl_progressive//image/loader_compressed-v3.gif"
         alt="loading-gif"
       />
@@ -39,11 +38,12 @@ const Fitness = () => {
         <Navbar2 />
         <div className="pagemain">
           <div className="Fitnesshome">
-            <button  className="btn">TRY FOR FREE</button>
+            <button className="btn">TRY FOR FREE</button>
             <div className="Offers">
               <div className="box">
                 <p className="line1">cultpass</p>
-                <img style={{marginLeft:"100px"}}
+                <img
+                  style={{ marginLeft: "100px" }}
                   src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_95,ar_3.59,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cult-pass-elite-partial.png"
                   className="line2 eli"
                 />
@@ -51,7 +51,8 @@ const Fitness = () => {
               </div>
               <div className="box">
                 <p className="line1">cultpass</p>
-                <img  style={{marginLeft:"100px"}}
+                <img
+                  style={{ marginLeft: "100px" }}
                   src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_70,ar_2.63,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cult-pass-pro-partial.png"
                   className="line2 pro"
                 />
@@ -59,14 +60,15 @@ const Fitness = () => {
               </div>
               <div className="box">
                 <p className="line1">cultpass</p>
-                <img  style={{marginLeft:"100px"}}
+                <img
+                  style={{ marginLeft: "100px" }}
                   src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_112,q_auto:eco,dpr_1,f_auto,fl_progressive//image/test/brand-logo/cult-pass-home-partial-1.svg"
                   className="line2 liv"
                 />
                 <p className="line3">Starting at₹117 / month</p>
               </div>
             </div>
-            <div style={{width:"85%",margin:"auto"}}>
+            <div style={{ width: "85%", margin: "auto" }}>
               {/* <SimpleSlider /> */}
             </div>
             {/* <SimpleSlider /> */}
@@ -74,14 +76,14 @@ const Fitness = () => {
               <p className="para">What you get with cultpass</p>
               <img
                 className="map"
-                style={{width:"80%"}}
+                style={{ width: "80%" }}
                 src="https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_1439,h_648,ar_2.220679012345679,c_fit/dpr_2//image/vm/5553377f-e0a2-4a5d-bd18-b2543163f9a6.png"
                 alt="map"
               />
               <h2 className="At">AT-CENTER</h2>
               <h1 className="Trainer">Trainer-led group classes</h1>
               <div className="sd2">
-                {/* <SimpleSlider2 /> */}
+                <FitnessSlider />
               </div>
               <div>
                 <h2 className="At">AT-HOME</h2>
@@ -223,11 +225,10 @@ const Fitness = () => {
                   </tbody>
                 </table>
               </div>
-              <div style={{width:"80%",margin:"auto"}} className="Elite">
+              <div style={{ width: "80%", margin: "auto" }} className="Elite">
                 <div className="EliteContent">
                   <div className="marginleft">
                     <img
-                     
                       className="cp1"
                       src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_200,ar_6.55,q_auto:eco,dpr_1.25,f_auto,fl_progressive//image/test/brand-logo/cult-pass-elite.png"
                       alt="img"
@@ -246,7 +247,7 @@ const Fitness = () => {
                 </div>
                 <div className="Eliteimg">
                   <img
-                     style={{width:"100%"}}
+                    style={{ width: "100%" }}
                     src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_842,ar_1.2,q_auto:eco,dpr_1.25,f_auto,fl_progressive/image/test/sku-card-widget/black2.png"
                     alt="img"
                   />
@@ -256,7 +257,7 @@ const Fitness = () => {
               <div className="PRO">
                 <div className="PROimg">
                   <img
-                    style={{width:"100%"}}
+                    style={{ width: "100%" }}
                     src="https://cdn-images.cure.fit/www-curefit-com/image/upload/c_fill,w_842,ar_1.2,q_auto:eco,dpr_1.25,f_auto,fl_progressive/image/test/sku-card-widget/gold2.png"
                     alt="img"
                   />
@@ -284,7 +285,7 @@ const Fitness = () => {
 
               <div className="culttransform">
                 <img
-                  style={{width:"100%"}}
+                  style={{ width: "100%" }}
                   src="https://cdn-images.cure.fit/www-curefit-com/image/upload/fl_progressive,f_auto,q_auto:eco,w_750,ar_1738:763/dpr_2/image/vm/c93e221a-607f-4dda-87c5-5b7b4a8662b0.png"
                   alt="img"
                 />
