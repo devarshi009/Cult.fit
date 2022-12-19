@@ -7,12 +7,13 @@ import {
     Stack,
     Image,
   } from '@chakra-ui/react';
-  
+  import{Link} from "react-router-dom"
  
   
-  export default function Card({image,noIdea,description,price,originalPrice,offer}) {
+  export default function Card({image,noIdea,description,price,originalPrice,offer,id}) {
     return (
       <Center py={12}>
+        <Link to={`/store/${id}`}>
         <Box
           role={'group'}
           p={6}
@@ -71,6 +72,7 @@ import {
             </Stack>
           </Stack>
         </Box>
+        </Link>
       </Center>
     );
   }
