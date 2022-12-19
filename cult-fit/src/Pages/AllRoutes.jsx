@@ -9,7 +9,7 @@ import Mind from "./Mind"
 import Store from "./Store"
 import User from "./User"
 import Location from "./Location"
-
+import Productdetails from "./Productdetails"
 const AllRoutes = () => {
   return (
     <Routes>
@@ -22,6 +22,7 @@ const AllRoutes = () => {
         <Route path="/user" element={<User/>}></Route>
         <Route path="/cart" element={<Cart/>}></Route>
         
+        <Route path="store/:id" element={<Productdetails/>}></Route>
     </Routes>
   )
 }
